@@ -1,0 +1,30 @@
+.signupContainer {
+    padding: 20px;
+    margin-top: 80px;
+    /* height: 400px; */
+    height: auto;
+    background-color: #fff;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+    border-radius: 15px;
+}
+
+.login {
+    background-color: gray;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.loginText {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.loginButton {
+    margin-right: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
